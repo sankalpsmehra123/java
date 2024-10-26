@@ -2,7 +2,7 @@ package com.javaforfun.collections.list.vector;
 
 import java.util.Vector;
 
-public class VectorEx1 {
+public class VectorTest1 {
     public static void main(String[] args) {
         Vector<String> vec1 = new Vector<String>();
         vec1.add("pune");

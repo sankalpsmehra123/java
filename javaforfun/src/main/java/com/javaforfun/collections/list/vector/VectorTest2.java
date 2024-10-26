@@ -5,7 +5,7 @@ import java.util.Iterator;
 import java.util.ListIterator;
 import java.util.Vector;
 
-public class VectorEx2 {
+public class VectorTest2 {
     public static void main(String[] args) {
 
         Vector<String> vec1 = new Vector<String>();
